@@ -1,1 +1,1 @@
-for /l %%i in (1,1,20) do start alert.vbs
+for /l %%i in (1,1,40) do start alert.vbs
