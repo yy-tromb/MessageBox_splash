@@ -8,9 +8,7 @@ Execute main.bat
 
 ## Custom  
 If you want to change number of times to loop , change this (this is 40 loop) ↓  
-```
-main.bat
-```
+### in main.bat
 ```bat
 for /l %%i in (1,1,40) do start alert.vbs
 ```
